@@ -78,4 +78,4 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 
 - 🎓 **Ingeniería en Informática** — Instituto Profesional DUOC UC (2020–2024)
 - 📜 **Seguridad Laboral y Normativas** — ACHS (2025)
-- 📜 **Microsoft Excel** — Certificaci
+- 📜 **Microsoft Excel**  

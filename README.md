@@ -17,7 +17,7 @@
 
 Soy **Ingeniero en Informática** de DUOC UC con experiencia en desarrollo web **Full Stack** y soluciones de **Data Engineering** en la nube. Me apasiona construir productos que combinan buena experiencia de usuario con arquitecturas de datos sólidas.
 
-- 🔭 Actualmente trabajando como **Desarrollador Full Stack** en SafeHome y como **Data Engineer Freelance**
+- 🔭 Actualmente trabajando como **Desarrollador Full Stack** y como **Data Engineer Freelance**
 - 🌱 Profundizando en arquitecturas cloud con **GCP** y patrones de datos escalables
 - 💬 Pregúntame sobre **React, Python, SQL, GCP o pipelines ETL**
 - 📫 Contáctame: **ing.francisco.reyes28@gmail.com**

@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Data Engineer · Santiago, Chile 🇨🇱</h3>
 
 <p align="center">
-  <a href="mailto:ing.francisco.reyes28@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#2c45424b024a5e4d424f455f4f43025e4955495f1e146c4b414d4540024f4341">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/francisco-reyes" target="_blank">
@@ -20,7 +20,7 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 - 🔭 Actualmente trabajando como **Desarrollador Full Stack** y como **Data Engineer Freelance**
 - 🌱 Profundizando en arquitecturas cloud con **GCP** y patrones de datos escalables
 - 💬 Pregúntame sobre **React, Python, SQL, GCP o pipelines ETL**
-- 📫 Contáctame: **ing.francisco.reyes28@gmail.com**
+- 📫 Contáctame: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5d34333a733b2f3c333e342e3e32732f3824382e6f651d3a303c3431733e3230">[email&#160;protected]</a>**
 - ⚡ Fun fact: Construí una app web completa con integración de pagos de forma 100% autónoma
 
 ---
@@ -64,12 +64,13 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingfranciscoreyes28-bit&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingfranciscoreyes28-bit&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+| Proyecto | Tecnologías | Descripción |
+|---|---|---|
+| 🏠 SafeHome | React, Supabase, Docker, PayPal | App web full stack con pagos integrados |
+| 📊 ETL Automatizado | Python, GCP, Airflow, BigQuery | Pipelines de datos automatizados en la nube |
+| 🌐 Contraplano | PHP, MySQL, WordPress | Portal web con buscador optimizado |
 
 ---
 
@@ -77,11 +78,4 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 
 - 🎓 **Ingeniería en Informática** — Instituto Profesional DUOC UC (2020–2024)
 - 📜 **Seguridad Laboral y Normativas** — ACHS (2025)
-- 📜 **Microsoft Excel** — Certificación oficial
-- 🔐 Conocimiento en **ISO 27001**, **ISO 9001** y **GDPR**
-
----
-
-<p align="center">
-  <i>"Construyo soluciones que combinan buena UX con datos bien estructurados."</i>
-</p>
+- 📜 **Microsoft Excel** — Certificaci

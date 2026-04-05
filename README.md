@@ -20,7 +20,7 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 - 🔭 Actualmente trabajando como **Desarrollador Full Stack** y como **Data Engineer Freelance**
 - 🌱 Profundizando en arquitecturas cloud con **GCP** y patrones de datos escalables
 - 💬 Pregúntame sobre **React, Python, SQL, GCP o pipelines ETL**
-- 📫 Contáctame: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5d34333a733b2f3c333e342e3e32732f3824382e6f651d3a303c3431733e3230">[email&#160;protected]</a>**
+- 📫 Contáctame: **ing.francisco.reyes28@gmail.com**
 - ⚡ Fun fact: Construí una app web completa con integración de pagos de forma 100% autónoma
 
 ---
@@ -70,7 +70,7 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 |---|---|---|
 | 🏠 SafeHome | React, Supabase, Docker, PayPal | App web full stack con pagos integrados |
 | 📊 ETL Automatizado | Python, GCP, Airflow, BigQuery | Pipelines de datos automatizados en la nube |
-| 🌐 Contraplano | PHP, MySQL, WordPress | Portal web con buscador optimizado |
+| 🌐 Contraplano | PHP, MySQL, WordPress | Portal web de noticias online  |
 
 ---
 
